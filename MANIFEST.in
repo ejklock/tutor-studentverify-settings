@@ -1,0 +1,2 @@
+recursive-include tutorstudentverify_settings/patches *
+recursive-include tutorstudentverify_settings/templates *
